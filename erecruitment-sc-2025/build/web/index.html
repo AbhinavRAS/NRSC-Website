@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>eRecruitment@NRSC/ISRO</title>
+
+    <!-- ICON -->
+    <link rel="icon" href="images/isroLogo.jpg">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/animsition/css/animsition.min.css">
+    <link rel="stylesheet" href="vendor/select2/select2.min.css">
+    <link rel="stylesheet" href="css/util.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link href="css/bootstrap-datetimepicker.min.css" rel="stylesheet">
+
+    <!-- JS (CORRECT ORDER) -->
+    <script src="js/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/popper.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <script src="js/main.js"></script>
+    <script src="js/bootstrap-datetimepicker.js"></script>
+    <script src="vendor/animsition/js/animsition.min.js"></script>
+    <script src="vendor/select2/select2.min.js"></script>
+    <script src="vendor/daterangepicker/moment.min.js"></script>
+    <script src="vendor/countdowntime/countdowntime.js"></script>
+
+    <script src="js/applicant.js"></script>
+    <script src="js/activation.js"></script>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- HEADER -->
+    <header>
+        <img src="images/erecruit_header.jpg" style="width:100%;">
+    </header>
+
+    <!-- TOP BAR -->
+    <div class="row" style="background:black;color:white;text-align:center;font-weight:bold;">
+        <div class="col-md-4"></div>
+
+        <div class="col-md-4">
+            NRSC <span style="color:#ffbebe">e</span>Recruitment Application
+        </div>
+
+        <div class="col-md-4 text-right">
+            <div class="dropdown">
+                <a class="dropdown-toggle text-white" data-toggle="dropdown" href="#">
+                    Help
+                </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#" id="aGeneralInstr">
+                        General Instructions
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- NOTICE -->
+    <div class="alert alert-danger text-center">
+        <b>
+            This web application is only for online applying against vacant post.
+            Results will be intimated through NRSC website nrsc.gov.in.
+        </b>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="mainDiv" style="background:#f3f7fd;min-height:83vh;">
+
+        <!-- ALERT -->
+        <div class="alert alert-warning text-center">
+            <img src="images/newlabel.png" height="20" width="48">
+            <b>
+                Applicants may note that closing date is extended till
+                <span class="text-primary">18.06.2025 (1700 Hrs)</span>
+            </b>
+        </div>
+
+        <!-- FAQ -->
+        <div class="alert alert-warning text-center">
+            <img src="images/newlabel.png" height="20" width="48">
+            <b>
+                <a href="#" id="aDownloadFAQ">
+                    Frequently Asked Questions (FAQ)
+                </a>
+            </b>
+        </div>
+
+        <!-- 🔥 IMPORTANT: ORIGINAL STRUCTURE -->
+        <div id="div_login"></div>
+        <div id="div_signup" style="display:none;"></div>
+        <div id="div_forgot" style="display:none;"></div>
+
+    </div>
+
+    <!-- FOOTER -->
+    <div class="row bg-primary text-white text-center mt-5">
+        <div class="col-md-6">
+            Contact: recruit@nrsc.gov.in
+        </div>
+        <div class="col-md-6">
+            Supported Browsers: Chrome, Firefox, Edge
+        </div>
+    </div>
+
+    <div class="row bg-dark text-white text-center">
+        <div class="col-md-12">
+            © NRSC ISRO
+        </div>
+    </div>
+
+</div>
+
+<!-- 🔥 LOAD ORIGINAL PAGES -->
+<script>
+$(document).ready(function () {
+    $("#div_login").load("login.html");
+    $("#div_signup").load("signup.html");
+    $("#div_forgot").load("forgot.html");
+});
+</script>
+
+<script src="js/login.js"></script>
+<script src="js/index-eventhandlers.js"></script>
+
+</body>
+</html>

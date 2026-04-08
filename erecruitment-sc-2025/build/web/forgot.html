@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+<link rel="stylesheet" href="vendor/animsition/css/animsition.min.css">
+<link rel="stylesheet" href="vendor/select2/select2.min.css">
+<link rel="stylesheet" href="css/util.css">
+<link rel="stylesheet" href="css/main.css">
+
+<script src="vendor/animsition/js/animsition.min.js"></script>
+<script src="vendor/bootstrap/js/popper.js"></script>
+<script src="vendor/select2/select2.min.js"></script>
+<script src="vendor/daterangepicker/moment.min.js"></script>
+<script src="vendor/countdowntime/countdowntime.js"></script>
+
+</head>
+
+<body>
+
+<div class="row" style="margin-top: 0px;" id="div_forgot">
+
+    <div class="col-md-1 d-none d-md-block"></div>
+
+    <!-- LEFT SIDE -->
+    <div class="col-md-5">
+        <div class="row">
+            <br><br>
+
+            <div class="wrap-login100" style="height: 550px;">
+                <form class="login100-form validate-form p-l-20 p-r-20 p-t-60">
+
+                    <span class="login100-form-title"> Forgot Password </span>
+
+                    <!-- EMAIL -->
+                    <p>Email</p>
+                    <div class="wrap-input100 m-b-10">
+                        <input class="input100"
+                               type="email"
+                               id="email_field"
+                               maxlength="50"
+                               placeholder="Email"
+                               required>
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <!-- OTP BUTTONS -->
+                    <div class="row m-b-10">
+                        <div class="col-md-4">
+                            <button class="btn btn-secondary"
+                                    type="button"
+                                    id="reOtpBtn"
+                                    onclick="resendOTP_forgot();"
+                                    disabled>
+                                Resend OTP
+                            </button>
+                        </div>
+
+                        <div class="col-md-4"></div>
+
+                        <div class="col-md-4 text-right">
+                            <button class="btn btn-secondary"
+                                    type="button"
+                                    id="sendOtpBtn"
+                                    onclick="sendOTP_forgot();">
+                                Send OTP
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- OTP -->
+                    <p>OTP</p>
+                    <div class="wrap-input100 m-b-10">
+                        <input class="input100 otp"
+                               type="text"
+                               id="otp"
+                               maxlength="8"
+                               placeholder="OTP"
+                               pattern="[a-zA-Z0-9]{8}"
+                               required>
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <!-- PASSWORD -->
+                    <p>New Password</p>
+                    <div class="wrap-input100 m-b-10">
+                        <input class="input100"
+                               type="password"
+                               id="password_field"
+                               maxlength="15"
+                               autocomplete="off"
+                               placeholder="New Password"
+                               required>
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <!-- CONFIRM -->
+                    <p>Retype Password</p>
+                    <div class="wrap-input100 m-b-10">
+                        <input class="input100"
+                               type="password"
+                               id="pass_repeat"
+                               maxlength="15"
+                               autocomplete="off"
+                               placeholder="Retype Password"
+                               required>
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <!-- BACK TO LOGIN -->
+                    <div class="text-center mt-2">
+                        <span>Remember password?</span>
+                        <label class="txt3"
+                               style="cursor:pointer;"
+                               onclick="displayDiv('login','');">
+                            Login
+                        </label>
+                    </div>
+
+                    <!-- SUBMIT -->
+                    <div class="container-login100-form-btn">
+                        <button class="login100-form-btn"
+                                type="button"
+                                onclick="updatePass();">
+                            Update Password
+                        </button>
+                    </div>
+
+                </form>
+            </div>
+
+            <br>
+        </div>
+
+        <!-- INFO BOX -->
+        <div class="row">
+            <div class="wrap-login100" style="height: 200px;">
+                <div class="text-left p-t-30 p-b-5 p-l-20 p-r-20">
+                    <label>
+                        Enter your registered email and OTP to reset password.
+                    </label>
+                    <br><br>
+                    <label class="txt2">
+                        Support: recruit@nrsc.gov.in
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- RIGHT SIDE IMAGE -->
+    <div class="col-md-1 d-none d-md-block"></div>
+
+    <div class="col-md-5 d-none d-md-block">
+        <div class="container-login100">
+            <img src="images/erecruit_main.jpg"
+                 style="height: 84vh; margin-left: -10%; max-width: 600px;">
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>

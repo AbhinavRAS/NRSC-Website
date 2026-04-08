@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+<link rel="stylesheet" href="vendor/animsition/css/animsition.min.css">
+<link rel="stylesheet" href="vendor/select2/select2.min.css">
+<link rel="stylesheet" href="css/util.css">
+<link rel="stylesheet" href="css/main.css">
+
+<script src="vendor/animsition/js/animsition.min.js"></script>
+<script src="vendor/bootstrap/js/popper.js"></script>
+<script src="vendor/select2/select2.min.js"></script>
+<script src="vendor/daterangepicker/moment.min.js"></script>
+<script src="vendor/countdowntime/countdowntime.js"></script>
+
+</head>
+
+<body>
+
+<div class="row" style="margin-top: 0px; background-color: #f3f7fd;" id="div_login">
+
+    <div class="col-md-1 d-none d-md-block"></div>
+
+    <!-- LEFT SIDE -->
+    <div class="col-md-5">
+        <div class="row">
+            <br><br>
+
+            <div class="wrap-login100" style="height: 400px;">
+                <form class="login100-form validate-form p-l-20 p-r-20 p-t-80">
+
+                    <span class="login100-form-title"> Sign In </span>
+
+                    <!-- EMAIL -->
+                    <div class="wrap-input100 validate-input m-b-16"
+                         data-validate="Please enter email id">
+                        <input class="input100" type="email"
+                               id="email"
+                               maxlength="50"
+                               placeholder="Email"
+                               required>
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <!-- PASSWORD -->
+                    <div class="wrap-input100 validate-input"
+                         data-validate="Please enter password">
+                        <input class="input100" type="password"
+                               id="password"
+                               autocomplete="off"
+                               maxlength="15"
+                               placeholder="Password"
+                               required>
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <!-- OTP BUTTONS -->
+                    <div class="row mt-3">
+                        <div class="col-md-4">
+                            <button class="btn btn-secondary"
+                                    type="button"
+                                    id="reOtpBtn_l"
+                                    onclick="resendOTP_login();"
+                                    disabled>
+                                Resend OTP
+                            </button>
+                        </div>
+
+                        <div class="col-md-4"></div>
+
+                        <div class="col-md-4 text-right">
+                            <button class="btn btn-secondary"
+                                    type="button"
+                                    id="sendOtpBtn_l"
+                                    onclick="sendOTP_login();">
+                                Send OTP
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- OTP -->
+                    <div class="row mt-2">
+                        <div class="col-md-12">
+                            <p>OTP</p>
+                            <input type="text"
+                                   class="form-control otp"
+                                   id="otp_l"
+                                   maxlength="8"
+                                   placeholder="OTP"
+                                   pattern="[a-zA-Z0-9]{8}"
+                                   disabled
+                                   required>
+                        </div>
+                    </div>
+
+                    <!-- FORGOT -->
+                    <div class="text-right p-t-10">
+                        <label class="txt3" style="cursor:pointer;"
+                               onclick="displayDiv('forgot','');">
+                            Forgot Password?
+                        </label>
+                    </div>
+
+                    <!-- LOGIN BUTTON -->
+                    <div class="container-login100-form-btn">
+                        <button class="login100-form-btn"
+                                type="button"
+                                onclick="login();">
+                            Login
+                        </button>
+                    </div>
+
+                </form>
+            </div>
+
+            <br>
+        </div>
+
+        <!-- INFO BOX -->
+        <div class="row">
+            <div class="wrap-login100" style="height: 200px;">
+                <div class="text-left p-t-30 p-b-5 p-l-20 p-r-20">
+                    <label>
+                        E-Recruitment Portal of NRSC is for facilitating
+                        submission of online applications.
+                    </label>
+                    <br><br>
+                    <label class="txt2">
+                        Support: recruit@nrsc.gov.in
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- RIGHT SIDE IMAGE -->
+    <div class="col-md-1 d-none d-md-block"></div>
+
+    <div class="col-md-5 d-none d-md-block">
+        <div class="container-login100">
+            <img src="images/erecruit_main.jpg"
+                 style="height: 84vh; margin-left: -10%; max-width: 600px;">
+        </div>
+    </div>
+
+</div>
+
+<!-- ENTER KEY LOGIN -->
+<script>
+$(document).on('keypress', function(e) {
+    if (e.which == 13) {
+        login();
+        return false;
+    }
+});
+</script>
+
+</body>
+</html>

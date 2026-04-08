@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+<link rel="stylesheet" href="vendor/animsition/css/animsition.min.css">
+<link rel="stylesheet" href="vendor/select2/select2.min.css">
+<link rel="stylesheet" href="css/util.css">
+<link rel="stylesheet" href="css/main.css">
+
+<script src="vendor/animsition/js/animsition.min.js"></script>
+<script src="vendor/bootstrap/js/popper.js"></script>
+<script src="vendor/select2/select2.min.js"></script>
+<script src="vendor/daterangepicker/moment.min.js"></script>
+<script src="vendor/countdowntime/countdowntime.js"></script>
+
+</head>
+
+<body>
+
+<div class="row" style="margin-top: 0px;" id="div_signup">
+
+    <div class="col-md-1 d-none d-md-block"></div>
+
+    <!-- LEFT SIDE -->
+    <div class="col-md-5">
+        <div class="row">
+            <br><br>
+
+            <div class="wrap-login100" style="height: 820px;">
+                <form class="login100-form validate-form p-l-20 p-r-20 p-t-60">
+
+                    <span class="login100-form-title"> Sign Up </span>
+
+                    <!-- NAME -->
+                    <p>Name</p>
+                    <div class="wrap-input100 m-b-10">
+                        <input class="input100" type="text"
+                               id="name"
+                               maxlength="50"
+                               placeholder="Name"
+                               pattern="[a-zA-Z ]+"
+                               required>
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <!-- DOB -->
+                    <p>Date of Birth</p>
+                    <div class="input-group date form_date m-b-10">
+                        <input class="input100 dob"
+                               type="text"
+                               id="dob"
+                               readonly
+                               placeholder="Select Date"
+                               required>
+
+                        <span class="input-group-addon">
+                            <i class="fa fa-calendar"></i>
+                        </span>
+                    </div>
+
+                    <small>
+                        <span class="e_dob text-muted">
+                            This date of birth will be used in all applications
+                        </span>
+                    </small>
+
+                    <!-- EMAIL -->
+                    <p>Email</p>
+                    <div class="wrap-input100 m-b-10">
+                        <input class="input100" type="email"
+                               id="email_signup"
+                               maxlength="50"
+                               placeholder="Email"
+                               required>
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <small class="text-muted">
+                        This email ID will be used for all communications
+                    </small>
+
+                    <!-- PASSWORD -->
+                    <p>Password</p>
+                    <div class="wrap-input100 m-b-10">
+                        <input class="input100"
+                               type="password"
+                               id="password_field"
+                               maxlength="15"
+                               autocomplete="off"
+                               placeholder="Password"
+                               required>
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <small class="text-muted">
+                        Password must be 8–12 chars with uppercase, lowercase, number & special character
+                    </small>
+
+                    <!-- CONFIRM -->
+                    <p>Retype Password</p>
+                    <div class="wrap-input100 m-b-10">
+                        <input class="input100"
+                               type="password"
+                               id="pass_repeat"
+                               maxlength="15"
+                               autocomplete="off"
+                               placeholder="Retype Password"
+                               required>
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <!-- MOBILE -->
+                    <p>Mobile</p>
+                    <div class="row m-b-10">
+                        <div class="col-md-8">
+                            <input type="text"
+                                   class="form-control mobile"
+                                   id="mobile"
+                                   maxlength="10"
+                                   placeholder="Mobile Number"
+                                   required>
+                        </div>
+
+                        <div class="col-md-4">
+                            <button class="btn btn-secondary"
+                                    type="button"
+                                    id="sendOtpBtn_s"
+                                    onclick="sendOTP_signup();">
+                                Send OTP
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- OTP -->
+                    <p>OTP</p>
+                    <div class="row m-b-10">
+                        <div class="col-md-8">
+                            <input type="text"
+                                   class="form-control otp"
+                                   id="otp_s"
+                                   maxlength="8"
+                                   placeholder="OTP"
+                                   disabled
+                                   required>
+                        </div>
+
+                        <div class="col-md-4">
+                            <button class="btn btn-secondary"
+                                    type="button"
+                                    id="reOtpBtn_s"
+                                    onclick="resendOTP_signup();"
+                                    disabled>
+                                Resend OTP
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- LOGIN LINK -->
+                    <div class="text-center mt-2">
+                        <span>Existing user?</span>
+                        <label class="txt3"
+                               style="cursor:pointer;"
+                               onclick="displayDiv('login','');">
+                            Login
+                        </label>
+                    </div>
+
+                    <!-- SUBMIT -->
+                    <div class="container-login100-form-btn">
+                        <button class="login100-form-btn"
+                                type="button"
+                                onclick="signup();">
+                            Sign Up
+                        </button>
+                    </div>
+
+                </form>
+            </div>
+
+            <br>
+        </div>
+    </div>
+
+    <!-- RIGHT SIDE IMAGE -->
+    <div class="col-md-1 d-none d-md-block"></div>
+
+    <div class="col-md-5 d-none d-md-block">
+        <div class="container-login100">
+            <img src="images/erecruit_main.jpg"
+                 style="height: 84vh; margin-left: -10%; max-width: 600px;">
+        </div>
+    </div>
+
+</div>
+
+<!-- DATEPICKER -->
+<script>
+$('.form_date').datetimepicker({
+    format: 'dd/mm/yyyy',
+    weekStart: 1,
+    todayBtn: 1,
+    autoclose: 1,
+    todayHighlight: 1,
+    startView: 2,
+    minView: 2
+});
+</script>
+
+</body>
+</html>
