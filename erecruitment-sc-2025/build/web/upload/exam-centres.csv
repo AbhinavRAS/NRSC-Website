@@ -1,4 +1,0 @@
-For post #,DB Query
-9,Nil
-10,"INSERT INTO specialization(specialization_id, discipline_id, essential_qualification_id,  eligibility_id, specialization_value)
-VALUES(21, 1,1,3,'Ecology');"

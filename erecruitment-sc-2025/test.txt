@@ -1,5 +1,0 @@
----------------------------
-Double Verification Started at: 08/01/2024 17:31:07
-Updating OrderID : 2023-23131532-1701762133851 details
-Double Verification Ended  at 08/01/2024 17:31:07
----------------------------

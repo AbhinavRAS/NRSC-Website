@@ -22,12 +22,14 @@ $('.form_date').datetimepicker({
 });
 
 function matchPasswords() {
-    var p1 = $("#password_field").val().trim();
-    var p2 = $("#pass_repeat").val().trim();
+    var p1 = $("#password_field").val();
+    var p2 = $("#pass_repeat").val();
 
     if (p1 !== "" && p2 !== "" && p1 !== p2) {
+        $("#passMatch").text("Passwords do not match").css("color", "red").show();
         $("#passMatch").removeClass("hidden");
     } else {
+        $("#passMatch").empty().hide();
         $("#passMatch").addClass("hidden");
     }
 }
@@ -86,9 +88,9 @@ function init_signup_div() {
     $("#pass_repeat").val("");
     $("#mobile").val("");
     $("#otp_s").val("");
-    $("#otp_s").prop("disabled", true);
     $("#sendOtpBtn_s").prop("disabled", false);
     $("#reOtpBtn_s").prop("disabled", true);
+    $("#passMatch").hide();
 }
 
 function init_forgot_div() {
