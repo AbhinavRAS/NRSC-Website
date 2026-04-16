@@ -1,0 +1,206 @@
+<link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
+<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+<link rel="stylesheet" type="text/css" href="css/util.css">
+<link rel="stylesheet" type="text/css" href="css/main.css">
+<script src="vendor/animsition/js/animsition.min.js"></script>
+<script src="vendor/bootstrap/js/popper.js"></script>
+<script src="vendor/select2/select2.min.js"></script>
+<script src="vendor/daterangepicker/moment.min.js"></script>
+<script src="vendor/countdowntime/countdowntime.js"></script>
+<script type="text/javascript" nonce="erecruit2024010901">
+	function checkSignURL() {
+		var thisURL = window.location.href;
+		if (thisURL.endsWith("signup.html")) {
+			window.location.href = "https://apps.nrsc.gov.in/eRecruitment_NRSC/"; // ChangeId: 2025042203
+		}
+	}
+	window.onload = checkSignURL;
+</script>
+
+<!-- <div class="limiter"> -->
+<div class="row" style="margin-top: 0px;">
+	<div class="col-md-1 d-none d-lg-block"></div>
+	<div class="col-md-5">
+		<div class="row">
+			<br> <br>
+			<div class="wrap-login100" style="height: 800px;">
+				<form class="login100-form validate-form p-l-20 p-r-20 p-t-80">
+					<span class="login100-form-title"> Sign Up </span>
+					<div class="row">
+						<div class="col-md-12">
+							<p>Name</p>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 0px;">
+						<div class="col-md-12">
+							<input type="text" class="form-control name " id="name" maxlength="50" name="name"
+								placeholder="Name" pattern="[a-zA-Z]{1,30}" required title="Name" aria-required="true">
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+							<p>Date of birth</p>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 0px;">
+						<div class="col-md-12">
+							<div class="input-group date form_date" data-link-field="dtp_input2">
+								<input class="form-control dob" style="font-size: 9pt;" type="text" name="dob" id="dob"
+									value="" title="Date of Birth" readonly> <span class="input-group-addon"><span
+										class="glyphicon glyphicon-calendar"></span></span>
+							</div>
+							<small><span class="e_dob">
+									<font color="gray">This
+										date of birth will be used in all applications</font>
+								</span></small>
+
+							<!-- 										<input -->
+							<!-- 								type="date" class="form-control dob" id="dob" name="dob" -->
+							<!-- 								onkeydown="return false" required title="Date of Birth"><small><span -->
+							<!-- 								class="e_dob"><font color="gray">This date of -->
+							<!-- 										birth will be used in all applications</font></span></small> -->
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+							<p>Email</p>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 0px;">
+						<div class="col-md-12">
+							<input type="text" class="form-control email" id="email_signup" maxlength="50"
+								name="email_field" placeholder="Email" required title="Email ID"
+								aria-required="true"><small><span class="e_email">
+									<font color="gray">This email ID
+										will be used for all communications</font>
+								</span></small>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+							<p>Password</p>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 0px;">
+						<div class="col-md-12">
+							<input type="password" class="form-control password_field " maxlength="15"
+								AUTOCOMPLETE="off" id="password_field" name="password_field" placeholder="Password"
+								required
+								title="Password must be 8 characters including 1 uppercase letter, 1 lowercase letter, number and special characters ([$@$!%*#&])"
+								aria-required="true"> <small><span class="e_email">
+									<font color="gray">Password must
+										be 8-12 characters including 1 uppercase letter, 1 lowercase
+										letter, number and special characters ([$@$!%*#&]) e.g.
+										Abcd@123</font>
+								</span></small>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+							<p>Retype Password</p>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 0px;">
+						<div class="col-md-12">
+							<input type="password" class="form-control pass_repeat " maxlength="15" AUTOCOMPLETE="off"
+								id="pass_repeat" name="pass_repeat" placeholder="Retype password" required
+								aria-required="true">
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+							<p>Mobile</p>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 0px;">
+						<div class="col-md-8">
+							<input type="text" class="form-control mobile" id="mobile" maxlength="10" name="mobile"
+								placeholder="mobile number" required title="Mobile" aria-required="true">
+						</div>
+						<div class="col-md-4">
+							<button class="btn btn-secondary" type="button" id="sendOtpBtn_s"
+								onclick="sendOTP_signup();">Send OTP</button>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+							<p>OTP</p>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 0px;">
+						<div class="col-md-8">
+							<input type="text" class="form-control otp" id="otp_s" name="otp" maxlength="8"
+								placeholder="OTP" pattern="[a-zA-Z0-9]{8}" required title="OTP" aria-required="true"
+								disabled>
+						</div>
+						<div class="col-md-4">
+							<button class="btn btn-secondary" type="button" id="reOtpBtn_s"
+								onclick="resendOTP_signup();" disabled>Resend OTP</button>
+						</div>
+						<!-- 							<button class="btn btn-secondary" type="button" id="sendOtpBtn_s" -->
+						<!-- 								onclick="sendOTP('signup');">Send OTP</button> -->
+						<!-- 						</div> -->
+					</div>
+
+					<div class="row">
+						<div class="col-md-8">
+							<div class="new-account" style="text-align: center; margin-top: 10px;">
+								<span class="txt1 p-b-9"> Existing user ? </span> <label class="txt3"
+									onclick="displayDiv('login', '');"> Login
+								</label>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<button class="btn btn-primary" type="button" onclick="signup();">Sign
+								Up</button>
+						</div>
+					</div>
+				</form>
+			</div>
+			<br>
+		</div>
+		<!-- 		<div class="row"> -->
+		<!-- 			<img src="images/erecruitdef.png" alt="Home" -->
+		<!-- 				style="width: 100%; height: auto;"> <br> <br> <br> -->
+		<!-- 		</div> -->
+	</div>
+	<div class="col-md-1 d-none d-lg-block"></div>
+	<div class="col-md-5 d-none d-lg-block">
+		<div class="container-login100">
+			<img src="images/erecruit_main.jpg" alt="Home" style="height: 84vh; margin-left: -10%; max-width: 600px;">
+			<!-- 				style="height: 84vh; margin-left: -3%"> -->
+		</div>
+	</div>
+</div>
+<script nonce="erecruit2024010901">
+	var minDate = today.replace(YEAR, (YEAR - max_age));
+	var maxDate = today.replace(YEAR, (YEAR - min_age));
+
+
+	$('.form_date').datetimepicker({
+		format: 'dd/mm/yyyy',
+		language: 'fr',
+		weekStart: 1, //alert(arr1[0].products);
+		todayBtn: 1,
+		autoclose: 1,
+		todayHighlight: 1,
+		startView: 2,
+		minView: 2,
+		//forceParse : 0,
+		startDate: minDate,
+		endDate: maxDate
+	});
+
+
+	$(document).ready(function () {
+		// 		$("[type='date']").keypress(function(evt) {
+		// 			evt.preventDefault();
+		// 		});
+
+		// 		var minDate = today.replace(YEAR, (YEAR - max_age));
+		// 		var maxDate = today.replace(YEAR, (YEAR - min_age));
+
+		// 		document.getElementById("dob").min = minDate;
+		// 		document.getElementById("dob").max = maxDate;
+	});
+</script>

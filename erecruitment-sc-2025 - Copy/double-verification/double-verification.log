@@ -1,0 +1,1108 @@
+
+2025-04-17 16:20:35 ./double-verification.sh: CronJob STARTED
+2025-04-17 16:20:35 ./double-verification.sh: CronJob COMPLETED
+2025-04-17 16:23:33 ./double-verification.sh: CronJob STARTED
+2025-04-17 16:23:33 ./double-verification.sh: Verified 0 transactions
+2025-04-17 16:23:33 ./double-verification.sh: CronJob COMPLETED
+2025-04-17 16:24:00 ./double-verification.sh: CronJob STARTED
+2025-04-17 16:24:00 ./double-verification.sh: Verified 0 transactions
+2025-04-17 16:24:00 ./double-verification.sh: CronJob COMPLETED
+2025-04-17 16:25:08 ./double-verification.sh: CronJob STARTED
+2025-04-17 16:25:08 ./double-verification.sh: Verified 0 transactions
+2025-04-17 16:25:08 ./double-verification.sh: CronJob COMPLETED
+2025-04-17 16:25:48 ./double-verification.sh: CronJob STARTED
+2025-04-17 16:25:49 ./double-verification.sh: Verified 0 transactions
+2025-04-17 16:25:49 ./double-verification.sh: CronJob COMPLETED
+2025-04-17 16:26:37 ./double-verification.sh: CronJob STARTED
+2025-04-17 16:28:58 ./double-verification.sh: CronJob STARTED
+2025-04-17 16:30:12 ./double-verification.sh: Verified 32 transactions
+2025-04-17 16:30:12 ./double-verification.sh: CronJob COMPLETED
+2025-04-17 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-17 18:01:08 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-17 18:01:08 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-17 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-17 20:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-17 20:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-17 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-17 22:01:08 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-17 22:01:08 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-18 00:00:02 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-18 00:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-18 00:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-18 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-18 02:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-18 02:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-18 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-18 04:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-18 04:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-18 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-18 06:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-18 06:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-18 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-18 08:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-18 08:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-18 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-18 10:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-18 10:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-18 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-18 12:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-18 12:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-18 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-18 14:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-18 14:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-18 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-18 16:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-18 16:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-18 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-18 18:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-18 18:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-18 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-18 20:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-18 20:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-18 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-18 22:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-18 22:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-19 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-19 00:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-19 00:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-19 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-19 02:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-19 02:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-19 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-19 04:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-19 04:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-19 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-19 06:01:10 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-19 06:01:10 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-19 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-19 08:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-19 08:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-19 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-19 10:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-19 10:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-19 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-19 12:01:08 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-19 12:01:08 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-19 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-19 14:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-19 14:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-19 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-19 16:01:08 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-19 16:01:08 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-19 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-19 18:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-19 18:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-19 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-19 20:01:08 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-19 20:01:08 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-19 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-19 22:01:08 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-19 22:01:08 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-20 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-20 00:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-20 00:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-20 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-20 02:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-20 02:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-20 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-20 04:01:08 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-20 04:01:08 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-20 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-20 06:01:10 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-20 06:01:10 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-20 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-20 08:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-20 08:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-20 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-20 10:01:08 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-20 10:01:08 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-20 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-20 12:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-20 12:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-20 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-20 14:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-20 14:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-20 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-20 16:01:08 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-20 16:01:08 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-20 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-20 18:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-20 18:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-20 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-20 20:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-20 20:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-20 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-20 22:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-20 22:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-21 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-21 00:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-21 00:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-21 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-21 02:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-21 02:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-21 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-21 04:01:08 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-21 04:01:08 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-21 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-21 06:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-21 06:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-21 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-21 08:01:10 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-21 08:01:10 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-21 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-21 10:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-21 10:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-21 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-21 12:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-21 12:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-21 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-21 14:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-21 14:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-21 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-21 16:01:08 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-21 16:01:08 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-21 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-21 18:01:09 /home/nrsc/double-verification/double-verification.sh: Verified 32 transactions
+2025-04-21 18:01:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-21 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-21 20:01:11 /home/nrsc/double-verification/double-verification.sh: Verified 33 transactions
+2025-04-21 20:01:11 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-21 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-21 22:01:11 /home/nrsc/double-verification/double-verification.sh: Verified 33 transactions
+2025-04-21 22:01:11 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-22 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-22 00:01:11 /home/nrsc/double-verification/double-verification.sh: Verified 33 transactions
+2025-04-22 00:01:11 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-22 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-22 02:01:10 /home/nrsc/double-verification/double-verification.sh: Verified 33 transactions
+2025-04-22 02:01:10 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-22 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-22 04:01:11 /home/nrsc/double-verification/double-verification.sh: Verified 33 transactions
+2025-04-22 04:01:11 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-22 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-22 06:01:11 /home/nrsc/double-verification/double-verification.sh: Verified 33 transactions
+2025-04-22 06:01:11 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-22 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-22 08:01:11 /home/nrsc/double-verification/double-verification.sh: Verified 33 transactions
+2025-04-22 08:01:11 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-22 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-22 10:01:11 /home/nrsc/double-verification/double-verification.sh: Verified 33 transactions
+2025-04-22 10:01:11 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-22 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-22 12:01:11 /home/nrsc/double-verification/double-verification.sh: Verified 33 transactions
+2025-04-22 12:01:11 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-22 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-22 14:01:23 /home/nrsc/double-verification/double-verification.sh: Verified 38 transactions
+2025-04-22 14:01:23 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-22 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-22 16:01:21 /home/nrsc/double-verification/double-verification.sh: Verified 38 transactions
+2025-04-22 16:01:21 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-22 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-22 18:01:21 /home/nrsc/double-verification/double-verification.sh: Verified 38 transactions
+2025-04-22 18:01:21 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-22 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-22 20:01:21 /home/nrsc/double-verification/double-verification.sh: Verified 38 transactions
+2025-04-22 20:01:21 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-22 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-22 22:01:21 /home/nrsc/double-verification/double-verification.sh: Verified 38 transactions
+2025-04-22 22:01:21 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-23 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-23 00:01:21 /home/nrsc/double-verification/double-verification.sh: Verified 38 transactions
+2025-04-23 00:01:21 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-23 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-23 02:01:21 /home/nrsc/double-verification/double-verification.sh: Verified 38 transactions
+2025-04-23 02:01:21 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-23 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-23 04:01:21 /home/nrsc/double-verification/double-verification.sh: Verified 38 transactions
+2025-04-23 04:01:21 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-23 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-23 06:01:21 /home/nrsc/double-verification/double-verification.sh: Verified 38 transactions
+2025-04-23 06:01:21 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-23 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-23 08:01:21 /home/nrsc/double-verification/double-verification.sh: Verified 38 transactions
+2025-04-23 08:01:21 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-23 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-23 10:01:21 /home/nrsc/double-verification/double-verification.sh: Verified 38 transactions
+2025-04-23 10:01:21 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-23 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-23 12:01:21 /home/nrsc/double-verification/double-verification.sh: Verified 38 transactions
+2025-04-23 12:01:21 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-23 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-23 14:01:21 /home/nrsc/double-verification/double-verification.sh: Verified 38 transactions
+2025-04-23 14:01:21 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-23 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-23 16:01:21 /home/nrsc/double-verification/double-verification.sh: Verified 38 transactions
+2025-04-23 16:01:21 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-23 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-23 18:01:24 /home/nrsc/double-verification/double-verification.sh: Verified 39 transactions
+2025-04-23 18:01:24 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-23 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-23 20:01:23 /home/nrsc/double-verification/double-verification.sh: Verified 39 transactions
+2025-04-23 20:01:23 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-23 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-23 22:01:24 /home/nrsc/double-verification/double-verification.sh: Verified 39 transactions
+2025-04-23 22:01:24 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-24 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-24 00:01:23 /home/nrsc/double-verification/double-verification.sh: Verified 39 transactions
+2025-04-24 00:01:23 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-24 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-24 02:01:23 /home/nrsc/double-verification/double-verification.sh: Verified 39 transactions
+2025-04-24 02:01:23 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-24 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-24 04:01:23 /home/nrsc/double-verification/double-verification.sh: Verified 39 transactions
+2025-04-24 04:01:23 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-24 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-24 06:01:23 /home/nrsc/double-verification/double-verification.sh: Verified 39 transactions
+2025-04-24 06:01:23 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-24 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-24 08:01:24 /home/nrsc/double-verification/double-verification.sh: Verified 39 transactions
+2025-04-24 08:01:24 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-24 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-24 10:01:25 /home/nrsc/double-verification/double-verification.sh: Verified 39 transactions
+2025-04-24 10:01:25 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-24 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-24 12:01:40 /home/nrsc/double-verification/double-verification.sh: Verified 46 transactions
+2025-04-24 12:01:40 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-24 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-24 14:01:48 /home/nrsc/double-verification/double-verification.sh: Verified 49 transactions
+2025-04-24 14:01:48 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-24 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-24 16:01:47 /home/nrsc/double-verification/double-verification.sh: Verified 49 transactions
+2025-04-24 16:01:47 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-24 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-24 18:01:50 /home/nrsc/double-verification/double-verification.sh: Verified 50 transactions
+2025-04-24 18:01:50 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-24 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-24 20:01:48 /home/nrsc/double-verification/double-verification.sh: Verified 49 transactions
+2025-04-24 20:01:48 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-24 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-24 22:01:47 /home/nrsc/double-verification/double-verification.sh: Verified 49 transactions
+2025-04-24 22:01:47 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-25 00:00:02 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-25 00:01:48 /home/nrsc/double-verification/double-verification.sh: Verified 49 transactions
+2025-04-25 00:01:48 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-25 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-25 02:01:47 /home/nrsc/double-verification/double-verification.sh: Verified 49 transactions
+2025-04-25 02:01:47 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-25 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-25 04:01:48 /home/nrsc/double-verification/double-verification.sh: Verified 49 transactions
+2025-04-25 04:01:48 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-25 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-25 06:01:47 /home/nrsc/double-verification/double-verification.sh: Verified 49 transactions
+2025-04-25 06:01:47 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-25 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-25 08:01:48 /home/nrsc/double-verification/double-verification.sh: Verified 49 transactions
+2025-04-25 08:01:48 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-25 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-25 10:01:48 /home/nrsc/double-verification/double-verification.sh: Verified 49 transactions
+2025-04-25 10:01:48 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-25 12:00:02 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-25 12:02:10 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-04-25 12:02:10 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-25 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-25 14:02:09 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-04-25 14:02:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-25 14:31:19 ./double-verification.sh: CronJob STARTED
+2025-04-25 14:36:02 ./double-verification.sh: CronJob STARTED
+2025-04-25 14:40:33 ./double-verification.sh: CronJob STARTED
+2025-04-25 14:47:14 ./double-verification.sh: CronJob STARTED
+2025-04-25 14:48:03 ./double-verification.sh: CronJob STARTED
+2025-04-25 14:51:41 ./double-verification.sh: CronJob STARTED
+2025-04-25 15:35:29 ./double-verification.sh: CronJob STARTED
+2025-04-25 15:37:37 ./double-verification.sh: CronJob STARTED
+2025-04-25 15:39:47 ./double-verification.sh: Verified 55 transactions
+2025-04-25 15:39:47 ./double-verification.sh: CronJob COMPLETED
+2025-04-25 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-25 16:01:52 /home/nrsc/double-verification/double-verification.sh: Verified 55 transactions
+2025-04-25 16:01:52 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-25 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-25 18:01:51 /home/nrsc/double-verification/double-verification.sh: Verified 55 transactions
+2025-04-25 18:01:51 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-25 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-25 20:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-25 20:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-25 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-25 22:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-25 22:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-26 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-26 00:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-26 00:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-26 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-26 02:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-26 02:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-26 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-26 04:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-26 04:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-26 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-26 06:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-26 06:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-26 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-26 08:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-26 08:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-26 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-26 10:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-26 10:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-26 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-26 12:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-26 12:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-26 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-26 14:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-26 14:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-26 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-26 16:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-26 16:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-26 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-26 18:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-26 18:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-26 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-26 20:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-26 20:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-26 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-26 22:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-26 22:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-27 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-27 00:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-27 00:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-27 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-27 02:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-27 02:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-27 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-27 04:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-27 04:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-27 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-27 06:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-27 06:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-27 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-27 08:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-27 08:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-27 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-27 10:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-27 10:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-27 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-27 12:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-27 12:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-27 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-27 14:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-27 14:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-27 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-27 16:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-27 16:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-27 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-27 18:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-27 18:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-27 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-27 20:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-27 20:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-27 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-27 22:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-27 22:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-28 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-28 00:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-28 00:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-28 02:00:02 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-28 02:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-28 02:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-28 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-28 04:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-28 04:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-28 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-28 06:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-28 06:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-28 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-28 08:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-28 08:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-28 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-28 10:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-28 10:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-28 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-28 12:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-28 12:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-28 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-28 14:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-28 14:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-28 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-28 16:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-28 16:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-28 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-28 18:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-28 18:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-28 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-28 20:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-28 20:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-28 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-28 22:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-28 22:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-29 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-29 00:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-29 00:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-29 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-29 02:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-29 02:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-29 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-29 04:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-29 04:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-29 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-29 06:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-29 06:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-29 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-29 08:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-29 08:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-29 10:00:02 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-29 10:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-29 10:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-29 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-29 12:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-29 12:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-29 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-29 14:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-29 14:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-29 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-29 16:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-29 16:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-29 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-29 18:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-29 18:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-29 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-29 20:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-29 20:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-29 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-29 22:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-29 22:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-30 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-30 00:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-30 00:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-30 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-30 02:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-30 02:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-30 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-30 04:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-30 04:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-30 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-30 06:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-30 06:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-30 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-30 08:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-30 08:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-30 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-30 10:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-30 10:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-30 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-30 12:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-30 12:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-30 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-30 14:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-30 14:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-30 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-30 16:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-30 16:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-30 18:00:02 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-30 18:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-30 18:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-30 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-30 20:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-30 20:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-04-30 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-04-30 22:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-04-30 22:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-01 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-01 00:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-05-01 00:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-01 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-01 02:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-05-01 02:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-01 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-01 04:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-05-01 04:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-01 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-01 06:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-05-01 06:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-01 08:00:02 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-01 08:01:54 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-05-01 08:01:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-01 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-01 10:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 56 transactions
+2025-05-01 10:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-01 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-01 12:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-01 12:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-01 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-01 14:01:55 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-01 14:01:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-01 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-01 16:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-01 16:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-01 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-01 18:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-01 18:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-01 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-01 20:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-01 20:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-01 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-01 22:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-01 22:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-02 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-02 00:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-02 00:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-02 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-02 02:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-02 02:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-02 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-02 04:01:55 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-02 04:01:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-02 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-02 06:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-02 06:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-02 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-02 08:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-02 08:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-02 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-02 10:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-02 10:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-02 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-02 12:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-02 12:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-02 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-02 14:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-02 14:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-02 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-02 16:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-02 16:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-02 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-02 18:01:55 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-02 18:01:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-02 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-02 20:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-02 20:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-02 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-02 22:01:55 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-02 22:01:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-03 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-03 00:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-03 00:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-03 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-03 02:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-03 02:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-03 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-03 04:01:55 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-03 04:01:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-03 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-03 06:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-03 06:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-03 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-03 08:01:55 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-03 08:01:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-03 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-03 10:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-03 10:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-03 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-03 12:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-03 12:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-03 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-03 14:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-03 14:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-03 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-03 16:01:55 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-03 16:01:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-03 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-03 18:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-03 18:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-03 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-03 20:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-03 20:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-03 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-03 22:01:55 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-03 22:01:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-04 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-04 00:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-04 00:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-04 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-04 02:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-04 02:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-04 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-04 04:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-04 04:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-04 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-04 06:01:55 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-04 06:01:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-04 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-04 08:01:55 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-04 08:01:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-04 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-04 10:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-04 10:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-04 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-04 12:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-04 12:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-04 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-04 14:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-04 14:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-04 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-04 16:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-04 16:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-04 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-04 18:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-04 18:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-04 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-04 20:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-04 20:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-04 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-04 22:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-04 22:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-05 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-05 00:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-05 00:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-05 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-05 02:01:55 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-05 02:01:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-05 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-05 04:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-05 04:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-05 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-05 06:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-05 06:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-05 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-05 08:01:55 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-05 08:01:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-05 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-05 10:01:55 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-05 10:01:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-05 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-05 12:01:59 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-05 12:01:59 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-05 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-05 14:01:56 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-05 14:01:56 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-05 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-05 16:01:55 /home/nrsc/double-verification/double-verification.sh: Verified 57 transactions
+2025-05-05 16:01:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-05 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-05 18:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-05 18:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-05 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-05 20:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-05 20:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-05 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-05 22:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-05 22:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-06 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-06 00:01:57 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-06 00:01:57 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-06 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-06 02:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-06 02:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-06 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-06 04:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-06 04:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-06 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-06 06:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-06 06:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-06 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-06 08:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-06 08:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-06 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-06 10:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-06 10:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-06 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-06 12:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-06 12:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-06 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-06 14:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-06 14:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-06 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-06 16:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-06 16:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-06 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-06 18:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-06 18:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-06 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-06 20:01:57 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-06 20:01:57 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-06 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-06 22:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-06 22:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-07 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-07 00:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-07 00:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-07 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-07 02:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-07 02:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-07 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-07 04:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-07 04:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-07 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-07 06:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-07 06:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-07 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-07 08:01:57 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-07 08:01:57 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-07 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-07 10:01:58 /home/nrsc/double-verification/double-verification.sh: Verified 58 transactions
+2025-05-07 10:01:58 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-07 10:41:25 ./double-verification.sh: CronJob STARTED
+2025-05-07 10:43:24 ./double-verification.sh: Verified 59 transactions
+2025-05-07 10:43:24 ./double-verification.sh: CronJob COMPLETED
+2025-05-07 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-07 12:02:02 /home/nrsc/double-verification/double-verification.sh: Verified 60 transactions
+2025-05-07 12:02:02 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-07 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-07 14:02:02 /home/nrsc/double-verification/double-verification.sh: Verified 60 transactions
+2025-05-07 14:02:02 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-07 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-07 16:02:05 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-07 16:02:05 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-07 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-07 18:02:03 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-07 18:02:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-07 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-07 20:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-07 20:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-07 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-07 22:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-07 22:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-08 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-08 00:02:03 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-08 00:02:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-08 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-08 02:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-08 02:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-08 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-08 04:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-08 04:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-08 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-08 06:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-08 06:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-08 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-08 08:02:03 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-08 08:02:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-08 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-08 10:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-08 10:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-08 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-08 12:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-08 12:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-08 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-08 14:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-08 14:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-08 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-08 16:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-08 16:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-08 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-08 18:02:03 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-08 18:02:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-08 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-08 20:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-08 20:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-08 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-08 22:02:03 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-08 22:02:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-09 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-09 00:02:03 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-09 00:02:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-09 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-09 02:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-09 02:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-09 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-09 04:02:03 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-09 04:02:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-09 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-09 06:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-09 06:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-09 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-09 08:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-09 08:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-09 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-09 10:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-09 10:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-09 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-09 12:02:03 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-09 12:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-09 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-09 14:02:03 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-09 14:02:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-09 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-09 16:02:04 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-09 16:02:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-09 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-09 18:00:01 /home/nrsc/double-verification/double-verification.sh: Verified 0 transactions
+2025-05-09 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-09 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-09 20:00:01 /home/nrsc/double-verification/double-verification.sh: Verified 0 transactions
+2025-05-09 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-09 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-09 22:00:01 /home/nrsc/double-verification/double-verification.sh: Verified 0 transactions
+2025-05-09 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-10 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-10 00:00:01 /home/nrsc/double-verification/double-verification.sh: Verified 0 transactions
+2025-05-10 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-10 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-10 02:00:01 /home/nrsc/double-verification/double-verification.sh: Verified 0 transactions
+2025-05-10 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-10 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-10 04:00:01 /home/nrsc/double-verification/double-verification.sh: Verified 0 transactions
+2025-05-10 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-10 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-10 06:00:02 /home/nrsc/double-verification/double-verification.sh: Verified 0 transactions
+2025-05-10 06:00:02 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-10 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-10 08:00:01 /home/nrsc/double-verification/double-verification.sh: Verified 0 transactions
+2025-05-10 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-10 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-10 10:00:01 /home/nrsc/double-verification/double-verification.sh: Verified 0 transactions
+2025-05-10 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-10 12:00:02 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-10 12:00:05 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-10 12:00:05 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-10 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-10 14:00:06 /home/nrsc/double-verification/double-verification.sh: Verified 2 transactions
+2025-05-10 14:00:06 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-10 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-10 16:00:24 /home/nrsc/double-verification/double-verification.sh: Verified 10 transactions
+2025-05-10 16:00:24 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-10 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-10 18:00:28 /home/nrsc/double-verification/double-verification.sh: Verified 13 transactions
+2025-05-10 18:00:28 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-10 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-10 20:01:00 /home/nrsc/double-verification/double-verification.sh: Verified 26 transactions
+2025-05-10 20:01:00 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-10 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-10 22:01:18 /home/nrsc/double-verification/double-verification.sh: Verified 36 transactions
+2025-05-10 22:01:18 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-11 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-11 00:01:24 /home/nrsc/double-verification/double-verification.sh: Verified 40 transactions
+2025-05-11 00:01:24 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-11 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-11 02:01:22 /home/nrsc/double-verification/double-verification.sh: Verified 40 transactions
+2025-05-11 02:01:22 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-11 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-11 04:01:22 /home/nrsc/double-verification/double-verification.sh: Verified 40 transactions
+2025-05-11 04:01:22 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-11 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-11 06:01:22 /home/nrsc/double-verification/double-verification.sh: Verified 40 transactions
+2025-05-11 06:01:22 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-11 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-11 08:01:26 /home/nrsc/double-verification/double-verification.sh: Verified 42 transactions
+2025-05-11 08:01:26 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-11 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-11 10:01:28 /home/nrsc/double-verification/double-verification.sh: Verified 43 transactions
+2025-05-11 10:01:28 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-11 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-11 12:01:53 /home/nrsc/double-verification/double-verification.sh: Verified 53 transactions
+2025-05-11 12:01:53 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-11 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-11 14:02:07 /home/nrsc/double-verification/double-verification.sh: Verified 61 transactions
+2025-05-11 14:02:07 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-11 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-11 16:02:19 /home/nrsc/double-verification/double-verification.sh: Verified 67 transactions
+2025-05-11 16:02:19 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-11 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-11 18:02:17 /home/nrsc/double-verification/double-verification.sh: Verified 67 transactions
+2025-05-11 18:02:17 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-11 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-11 20:02:23 /home/nrsc/double-verification/double-verification.sh: Verified 70 transactions
+2025-05-11 20:02:23 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-11 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-11 22:02:34 /home/nrsc/double-verification/double-verification.sh: Verified 75 transactions
+2025-05-11 22:02:34 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-12 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-12 00:02:37 /home/nrsc/double-verification/double-verification.sh: Verified 77 transactions
+2025-05-12 00:02:37 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-12 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-12 02:02:36 /home/nrsc/double-verification/double-verification.sh: Verified 77 transactions
+2025-05-12 02:02:36 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-12 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-12 04:02:36 /home/nrsc/double-verification/double-verification.sh: Verified 77 transactions
+2025-05-12 04:02:36 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-12 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-12 06:02:36 /home/nrsc/double-verification/double-verification.sh: Verified 77 transactions
+2025-05-12 06:02:36 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-12 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-12 08:02:41 /home/nrsc/double-verification/double-verification.sh: Verified 79 transactions
+2025-05-12 08:02:41 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-12 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-12 10:02:40 /home/nrsc/double-verification/double-verification.sh: Verified 79 transactions
+2025-05-12 10:02:40 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-12 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-12 12:03:17 /home/nrsc/double-verification/double-verification.sh: Verified 94 transactions
+2025-05-12 12:03:17 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-12 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-12 14:03:37 /home/nrsc/double-verification/double-verification.sh: Verified 105 transactions
+2025-05-12 14:03:37 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-12 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-12 16:03:54 /home/nrsc/double-verification/double-verification.sh: Verified 114 transactions
+2025-05-12 16:03:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-12 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-12 18:04:10 /home/nrsc/double-verification/double-verification.sh: Verified 122 transactions
+2025-05-12 18:04:10 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-12 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-12 20:04:16 /home/nrsc/double-verification/double-verification.sh: Verified 126 transactions
+2025-05-12 20:04:16 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-12 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-12 22:04:34 /home/nrsc/double-verification/double-verification.sh: Verified 134 transactions
+2025-05-12 22:04:34 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 00:04:48 /home/nrsc/double-verification/double-verification.sh: Verified 141 transactions
+2025-05-13 00:04:48 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 02:04:48 /home/nrsc/double-verification/double-verification.sh: Verified 142 transactions
+2025-05-13 02:04:48 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 04:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 04:04:47 /home/nrsc/double-verification/double-verification.sh: Verified 142 transactions
+2025-05-13 04:04:47 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 06:04:54 /home/nrsc/double-verification/double-verification.sh: Verified 145 transactions
+2025-05-13 06:04:54 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 08:04:52 /home/nrsc/double-verification/double-verification.sh: Verified 145 transactions
+2025-05-13 08:04:52 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 10:04:55 /home/nrsc/double-verification/double-verification.sh: Verified 146 transactions
+2025-05-13 10:04:55 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 10:54:31 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 10:55:28 ./double-verification.sh: CronJob STARTED
+2025-05-13 11:01:31 ./double-verification.sh: Verified 148 transactions
+2025-05-13 11:01:31 ./double-verification.sh: CronJob COMPLETED
+2025-05-13 11:45:01 ./double-verification.sh: CronJob STARTED
+2025-05-13 11:45:14 ./double-verification.sh: CronJob STARTED
+2025-05-13 11:46:44 ./double-verification.sh: CronJob STARTED
+2025-05-13 11:47:52 ./double-verification.sh: CronJob STARTED
+2025-05-13 11:48:59 ./double-verification.sh: CronJob STARTED
+2025-05-13 11:49:09 ./double-verification.sh: Verified 4 transactions
+2025-05-13 11:49:09 ./double-verification.sh: CronJob COMPLETED
+2025-05-13 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 12:00:08 /home/nrsc/double-verification/double-verification.sh: Verified 3 transactions
+2025-05-13 12:00:08 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 14:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 14:00:38 /home/nrsc/double-verification/double-verification.sh: Verified 15 transactions
+2025-05-13 14:00:38 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 14:27:07 ./double-verification.sh: CronJob STARTED
+2025-05-13 14:27:10 ./double-verification.sh: Verified 1 transactions
+2025-05-13 14:27:10 ./double-verification.sh: CronJob COMPLETED
+2025-05-13 16:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 16:00:26 /home/nrsc/double-verification/double-verification.sh: Verified 10 transactions
+2025-05-13 16:00:26 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 16:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 16:30:04 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-13 16:30:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 17:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 17:00:13 /home/nrsc/double-verification/double-verification.sh: Verified 5 transactions
+2025-05-13 17:00:13 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 17:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 17:30:03 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-13 17:30:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 18:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 18:00:06 /home/nrsc/double-verification/double-verification.sh: Verified 2 transactions
+2025-05-13 18:00:06 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 18:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 18:30:16 /home/nrsc/double-verification/double-verification.sh: Verified 6 transactions
+2025-05-13 18:30:16 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 19:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 19:00:16 /home/nrsc/double-verification/double-verification.sh: Verified 6 transactions
+2025-05-13 19:00:16 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 19:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 19:30:20 /home/nrsc/double-verification/double-verification.sh: Verified 8 transactions
+2025-05-13 19:30:20 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 20:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 20:00:09 /home/nrsc/double-verification/double-verification.sh: Verified 3 transactions
+2025-05-13 20:00:09 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 20:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 20:30:08 /home/nrsc/double-verification/double-verification.sh: Verified 3 transactions
+2025-05-13 20:30:08 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 21:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 21:00:08 /home/nrsc/double-verification/double-verification.sh: Verified 3 transactions
+2025-05-13 21:00:08 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 21:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 21:30:23 /home/nrsc/double-verification/double-verification.sh: Verified 9 transactions
+2025-05-13 21:30:23 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 22:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 22:00:23 /home/nrsc/double-verification/double-verification.sh: Verified 9 transactions
+2025-05-13 22:00:23 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 22:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 22:30:11 /home/nrsc/double-verification/double-verification.sh: Verified 4 transactions
+2025-05-13 22:30:11 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 23:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 23:00:06 /home/nrsc/double-verification/double-verification.sh: Verified 2 transactions
+2025-05-13 23:00:06 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-13 23:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-13 23:30:15 /home/nrsc/double-verification/double-verification.sh: Verified 6 transactions
+2025-05-13 23:30:15 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 00:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 00:00:14 /home/nrsc/double-verification/double-verification.sh: Verified 5 transactions
+2025-05-14 00:00:14 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 00:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 00:30:10 /home/nrsc/double-verification/double-verification.sh: Verified 4 transactions
+2025-05-14 00:30:10 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 01:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 01:00:04 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 01:00:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 01:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 01:30:06 /home/nrsc/double-verification/double-verification.sh: Verified 2 transactions
+2025-05-14 01:30:06 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 02:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 02:00:03 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 02:00:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 02:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 02:30:04 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 02:30:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 03:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 03:00:03 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 03:00:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 03:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 03:30:04 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 03:30:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 04:00:02 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 04:00:04 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 04:00:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 04:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 04:30:03 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 04:30:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 05:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 05:00:03 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 05:00:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 05:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 05:30:04 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 05:30:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 06:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 06:00:03 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 06:00:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 06:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 06:30:03 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 06:30:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 07:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 07:00:04 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 07:00:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 07:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 07:30:03 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 07:30:03 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 08:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 08:00:06 /home/nrsc/double-verification/double-verification.sh: Verified 2 transactions
+2025-05-14 08:00:06 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 08:30:02 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 08:30:04 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 08:30:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 09:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 09:00:04 /home/nrsc/double-verification/double-verification.sh: Verified 1 transactions
+2025-05-14 09:00:04 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 09:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 09:30:11 /home/nrsc/double-verification/double-verification.sh: Verified 4 transactions
+2025-05-14 09:30:11 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 10:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 10:00:11 /home/nrsc/double-verification/double-verification.sh: Verified 4 transactions
+2025-05-14 10:00:11 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 10:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 10:30:13 /home/nrsc/double-verification/double-verification.sh: Verified 5 transactions
+2025-05-14 10:30:13 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 11:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 11:00:13 /home/nrsc/double-verification/double-verification.sh: Verified 5 transactions
+2025-05-14 11:00:13 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 11:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 11:30:13 /home/nrsc/double-verification/double-verification.sh: Verified 5 transactions
+2025-05-14 11:30:13 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 12:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 12:00:11 /home/nrsc/double-verification/double-verification.sh: Verified 4 transactions
+2025-05-14 12:00:11 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 12:30:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 12:30:20 /home/nrsc/double-verification/double-verification.sh: Verified 8 transactions
+2025-05-14 12:30:20 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED
+2025-05-14 13:00:01 /home/nrsc/double-verification/double-verification.sh: CronJob STARTED
+2025-05-14 13:00:23 /home/nrsc/double-verification/double-verification.sh: Verified 9 transactions
+2025-05-14 13:00:23 /home/nrsc/double-verification/double-verification.sh: CronJob COMPLETED

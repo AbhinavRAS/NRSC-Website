@@ -1,0 +1,133 @@
+<link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
+<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+<link rel="stylesheet" type="text/css" href="css/util.css">
+<link rel="stylesheet" type="text/css" href="css/main.css">
+
+<script src="vendor/animsition/js/animsition.min.js"></script>
+<script src="vendor/bootstrap/js/popper.js"></script>
+<script src="vendor/select2/select2.min.js"></script>
+<script src="vendor/daterangepicker/moment.min.js"></script>
+<script src="vendor/countdowntime/countdowntime.js"></script>
+<script type="text/javascript" nonce="erecruit2024010901">
+	function checkForURL() {
+		var thisURL = window.location.href;
+		if (thisURL.endsWith("forgot.html")) {
+			window.location.href = "https://apps.nrsc.gov.in/eRecruitment_NRSC/"; // ChangeId: 2025042203
+		}
+	}
+	window.onload = checkForURL;
+</script>
+
+<!-- <div class="limiter"> -->
+<div class="row" style="margin-top: 0px;">
+	<div class="col-md-1 d-none d-lg-block"></div>
+	<div class="col-md-5">
+		<div class="row">
+			<br> <br>
+			<div class="wrap-login100" style="height: 450px;">
+				<form class="login100-form validate-form p-l-20 p-r-20 p-t-80">
+					<span class="login100-form-title"> Forgot Password </span>
+					<div class="row">
+						<div class="col-md-12">
+							<p>Email</p>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 0px;">
+						<div class="col-md-12">
+							<input type="text" class="form-control email" id="email_field" maxlength="50"
+								name="email_field" placeholder="Email" required title="Email ID" aria-required="true">
+						</div>
+					</div>
+					<div class="row" style="margin-top: 0px;">
+						<div class="col-md-4">
+							<button class="btn btn-secondary" type="button" id="reOtpBtn" onclick="resendOTP_forgot();"
+								disabled>Resend OTP</button>
+						</div>
+						<div class="col-md-4"></div>
+						<div class="col-md-4">
+							<button class="btn btn-secondary" type="button" id="sendOtpBtn"
+								onclick="sendOTP_forgot();">Send OTP</button>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 0px;">
+						<div class="col-md-12">
+							<p>OTP</p>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 0px;">
+						<div class="col-md-12">
+							<input type="text" class="form-control otp" id="otp" name="otp" maxlength="8"
+								placeholder="OTP" pattern="[a-zA-Z0-9]{8}" required title="OTP" aria-required="true">
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+							<p>Password</p>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 0px;">
+						<div class="col-md-12">
+							<input type="password" class="form-control password_field " AUTOCOMPLETE="off"
+								maxlength="20" id="password_field" name="password_field" placeholder="Password" required
+								title="Password must be 8 characters including 1 uppercase letter, 1 lowercase letter, number and special characters ([$@$!%*#&])"
+								aria-required="true">
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+							<p>Retype Password</p>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 0px;">
+						<div class="col-md-12">
+							<input type="password" class="form-control pass_repeat " AUTOCOMPLETE="off" id="pass_repeat"
+								name="pass_repeat" placeholder="Retype password" required aria-required="true">
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-6">
+							<div class="new-account" style="text-align: center; margin-top: 10px;">
+								<label class="txt3" onclick="displayDiv('login', '');">
+									Back to login </label>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<button class="btn btn-primary" id="upPass" type="button" onclick="updatePass();">Update
+								Password</button>
+						</div>
+					</div>
+				</form>
+			</div>
+			<br>
+		</div>
+		<div class="row">
+			<div class="wrap-login100" style="height: 200px;">
+				<div class="text-left p-t-30 p-b-5 p-l-20 p-r-20">
+					<label> E-Recruitment Portal of NRSC is for facilitating
+						submission of online applications for the posts advertised from
+						NRSC.</label><br></br>
+					<br></br> <label class="txt2">Support : recruitment
+						@nrsc.gov.in</label>
+				</div>
+			</div>
+			<!-- 			<img src="images/erecruitdef.png" alt="Home" -->
+			<!-- 				style="width: 100%; height: auto;"> <br> <br> <br> -->
+		</div>
+	</div>
+	<div class="col-md-1 d-none d-lg-block"></div>
+	<div class="col-md-5 d-none d-lg-block">
+		<div class="container-login100">
+			<img src="images/erecruit_main.jpg" alt="Home" style="height: 84vh; margin-left: -10%; max-width: 600px;">
+			<!-- 				style="height: 84vh; margin-left: -3%"> -->
+		</div>
+	</div>
+</div>
+
+<script nonce="erecruit2024010901">
+	$(document).ready(function () {
+		$("#otp").prop("disabled", true);
+		$("#password_field").prop("disabled", true);
+		$("#pass_repeat").prop("disabled", true);
+		$("#upPass").prop("disabled", true);
+	});
+</script>

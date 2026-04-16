@@ -1,0 +1,157 @@
+<html>
+
+<head>
+	<meta charset="ISO-8859-1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
+	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+	<!-- <script src="js/jquery-2.2.4.js"></script> -->
+
+	<script src="vendor/animsition/js/animsition.min.js"></script>
+	<script src="vendor/bootstrap/js/popper.js"></script>
+	<script src="vendor/select2/select2.min.js"></script>
+	<script src="vendor/daterangepicker/moment.min.js"></script>
+	<script src="vendor/countdowntime/countdowntime.js"></script>
+	<script type="text/javascript" nonce="erecruit2024010901">
+		function checkLogURL() {
+			var thisURL = window.location.href;
+			if (thisURL.endsWith("login.html")) {
+				window.location.href = "https://apps.nrsc.gov.in/eRecruitment_NRSC/"; // ChangeId: 2025042203
+			}
+		}
+		window.onload = checkLogURL;
+	</script>
+
+</head>
+
+<body>
+	<!-- <div class="limiter"> -->
+	<div class="row" style="margin-top: 0px; background-color: #f3f7fd;" id="div_login">
+		<!-- 	<div class="col-md-4 d-none d-lg-block"> -->
+		<!-- 		<div class="row"> -->
+		<!-- 			<img src="images/erec_left_img.jpg" alt="Home" -->
+		<!-- 				style="width: 100%; height: 100%;"> -->
+		<!-- 		</div> -->
+		<!-- 	</div> -->
+		<div class="col-md-1 d-none d-lg-block"></div>
+		<div class="col-md-6">
+			<div class="row">
+				<br> <br>
+				<div class="wrap-login100" style="height: 400px;">
+					<form class="login100-form validate-form p-l-20 p-r-20 p-t-80">
+						<span class="login100-form-title"> Sign In </span>
+						<div class="wrap-input100 validate-input m-b-16" data-validate="Please enter email id">
+							<input class="input100" type="email" name="email" id="email" onchange="resetLogin();"
+								maxlength="50" placeholder="Email" required> <span class="focus-input100"></span>
+						</div>
+						<div class="wrap-input100 validate-input" data-validate="Please enter password">
+							<input class="input100" type="password" name="pass" id="password" AUTOCOMPLETE="off"
+								maxlength="15" placeholder="Password" required> <span class="focus-input100"></span>
+						</div>
+
+						<!-- 				<div class="row" style="margin-bottom: 30px;">
+											<div class="col-sm-5">
+												<input type="text" id="mainCaptcha" readonly="readonly" /> <br />
+												<a id="captcha_reload" href="#" onclick="generateCaptcha();">refresh</a>
+											</div>
+											<div class="col-sm-6">
+												<input type="text" class="form-control" required id="captcha"
+													name="captcha">
+													<div>
+													<input id="Button1" type="button" value="Check"
+												onclick="CheckValidCaptcha();" />
+													</div>
+													<div>
+											<span id="error" style="color: red"></span> <span id="success"
+												style="color: green"></span>
+										</div>
+											</div>
+
+										</div> -->
+
+
+						<div class="row" style="margin-top: 0px;">
+							<div class="col-md-4">
+								<button class="btn btn-secondary text-nowrap px-1 w-70" type="button" id="reOtpBtn_l"
+									onclick="resendOTP_login();" disabled>Resend OTP</button>
+							</div>
+							<div class="col-md-4"></div>
+							<div class="col-md-4">
+								<button class="btn btn-secondary text-nowrap px-1 w-70" type="button" id="sendOtpBtn_l"
+									onclick="sendOTP_login();">Send OTP</button>
+							</div>
+						</div>
+						<div class="row" style="margin-top: 0px;">
+							<div class="col-md-12">
+								<p>OTP</p>
+							</div>
+						</div>
+						<div class="row" style="margin-top: 0px;">
+							<div class="col-md-12">
+								<input type="text" class="form-control otp" id="otp_l" name="otp_l" maxlength="8"
+									placeholder="OTP" pattern="[a-zA-Z0-9]{8}" required title="OTP" aria-required="true"
+									disabled>
+							</div>
+						</div>
+
+						<div class="text-right p-t-0 p-b-5">
+							<label class="txt3" onclick="displayDiv('forgot', '');">
+								Forgot Password? </label>
+						</div>
+						<div class="container-login100-form-btn">
+							<!-- 						<input type="submit" name="Login" value="login" class="login100-form-btn">  -->
+							<button class="login100-form-btn" type="button" onclick="login();">Login</button>
+						</div>
+						<!-- 						<div class="new-account" -->
+						<!-- 							style="text-align: center; margin-top: 10px;"> -->
+						<!-- 							<span class="txt1 p-b-9"> </span> <label class="txt3" -->
+						<!-- 								onclick="displayDiv('signup', '');"> New User ? Sign up -->
+						<!-- 								now </label> -->
+						<!-- 						</div> -->
+					</form>
+				</div>
+				<br>
+			</div>
+			<div class="row">
+				<div class="wrap-login100" style="height: auto; padding-bottom: 10px;">
+					<div class="text-left p-t-30 p-b-5 p-l-20 p-r-20">
+						<label class="mb-0"> E-Recruitment Portal of NRSC is for facilitating
+							submission of online applications for the posts advertised from
+							NRSC.</label> <label class="txt2 mb-0 mt-2">Contact us:
+							recruit[at]nrsc[dot]gov[dot]in</label><!--ChangeId: 2024011803,2025050702-->
+					</div>
+				</div>
+				<!-- 			<img src="images/erecruitdef.png" alt="Home" -->
+				<!-- 				style="width: 100%; height: auto;"> <br> <br> <br> -->
+			</div>
+		</div>
+		<div class="col-md-1 d-none d-lg-block"></div>
+		<div class="col-md-5 d-none d-lg-block">
+			<div class="container-login100">
+				<img src="images/erecruit_main.jpg" alt="Home"
+					style="height: 84vh; margin-left: -10%; max-width: 600px;">
+				<!-- 				style="height: 84vh; margin-left: -3%"> -->
+			</div>
+		</div>
+	</div>
+
+	<!-- 	<div id="messageDiv" -->
+	<!-- 		style="text-align: center; margin-top: 20%; font-family: monospace; font-size: 22px;"> -->
+	<!-- 	</div> -->
+	<!-- </div> -->
+	<script type="text/javascript" nonce="erecruit2024010901">
+		$(document).on('keypress', function (e) {
+			if (e.which == 13) {
+				//         alert('You pressed enter!');
+				login();
+				return false;
+			}
+		});
+	</script>
+
+</body>
+
+</html>
